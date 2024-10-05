@@ -1,0 +1,7 @@
+{
+  "name": "maxstars",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
